@@ -5,13 +5,13 @@ import pickle
 app = Flask(__name__)
 
 # Load the saved scaler, model, and column names
-with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\Financial_fraud_detection_using_ML-main\scaler.pkl', 'rb') as file:
+with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\scaler.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
-with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\Financial_fraud_detection_using_ML-main\xgb_model.pkl', 'rb') as file:
+with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\xgb_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
-with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\Financial_fraud_detection_using_ML-main\column_names.pkl', 'rb') as file:
+with open(r'C:\Users\Badmapriya S\Desktop\Financial_fraud_detection_using_ML-main\column_names.pkl', 'rb') as file:
     column_names = pickle.load(file)
 
 @app.route('/')
