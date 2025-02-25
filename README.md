@@ -78,6 +78,6 @@ This project aims to detect fraudulent financial transactions in real time using
 3. **Access the Web Application:**
    - Once `app.py` runs successfully, it will display a local server address in the output.
    - Open your browser and enter the URL provided in the terminal (default: `http://127.0.0.1:5000/`).
-4. **Input transaction details** to check for fraud risk
+4. **Input transaction details** to check for fraud risk.
 
 
