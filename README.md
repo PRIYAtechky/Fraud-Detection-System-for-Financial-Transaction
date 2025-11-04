@@ -6,6 +6,17 @@
 
 **GitHub Repository:** [Fraud Detection System](https://github.com/PRIYAtechky/Fraud-Detection-System-for-Financial-Transaction)
 
+## Tech Stack Used
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Machine Learning" />
+</p>
+
+
 ## Problem Statement
 Financial institutions face challenges in detecting and preventing fraudulent transactions. UPI-based financial fraud leads to significant monetary losses.
 
@@ -25,13 +36,6 @@ This project aims to detect fraudulent financial transactions in real time using
 - Random Forest
 - Naïve Bayes
 - XGBoost (Best Performing)
-
-### Technology Stack:
-- Python
-- Flask (Web App)
-- Pandas
-- Scikit-learn
-- XGBoost
 
 ## Implementation
 ### Dataset Features:
