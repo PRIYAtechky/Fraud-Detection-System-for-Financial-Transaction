@@ -51,11 +51,11 @@ This project aims to detect fraudulent financial transactions in real time using
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/PRIYAtechky/Fraud-Detection-System-for-Financial-Transaction.git
+   git clone https://github.com/PRIYAtechky/fraud-detection-system-for-financial-transaction.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Fraud-Detection-System-for-Financial-Transaction
+   cd fraud-detection-system-for-financial-transaction
    ```
 3. Install dependencies:
    ```sh
